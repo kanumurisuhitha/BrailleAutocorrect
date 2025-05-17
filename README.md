@@ -21,7 +21,7 @@ For users who do not have a Braille keyboard, Braille can be typed using a stand
 
 > **Note:** Errors in Braille input via QWERTY keyboards often stem from mispressing keys or pressing additional keys accidentally. Your task is to create an autocorrect system tailored to these issues.
 
-You can learn QWERTY Braille typing [https://www.thinkerbelllabs.com/braille/demo](#) (replace `#` with actual link).
+You can learn QWERTY Braille typing [https://www.thinkerbelllabs.com/braille/demo].
 
 ---
 
